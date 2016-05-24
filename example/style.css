@@ -1,0 +1,16 @@
+#item-list-section ul{
+  display: flex;
+  list-style: none;
+  cursor: pointer;
+}
+#item-list-section li{
+  cursor: pointer;
+  margin-right: 20px;
+}
+#item-list-section li.selected{
+  background-color: orange;
+  color: white;
+}
+.hidden{
+  display: none;
+}
