@@ -1,0 +1,32 @@
+{
+  "name": "behaviour-component",
+  "version": "1.0.0",
+  "description": "A Javascript library to describe UI behaviour",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancruz/behaviour-component.git"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "behaviour"
+  ],
+  "author": "Nuno Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nancruz/behaviour-component/issues"
+  },
+  "homepage": "https://github.com/nancruz/behaviour-component#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3"
+  }
+}
